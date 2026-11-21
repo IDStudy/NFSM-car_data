@@ -3685,6 +3685,32 @@
           "text": "新增 26S9、27S1 两个赛季标题（暂无车辆）"
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "items": [
+        {
+          "type": "return",
+          "text": "帕加尼Zonda Cinque、法拉利296 GTB、迈凯伦Elva、法拉利Purosangue 新增返场：2026.10.16-2026.11.5（定向）"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "type": "new",
+          "text": "新增 保时捷911 Dakar（运动 / 2026.10.24-），归入 26S7 赛季"
+        },
+        {
+          "type": "return",
+          "text": "布加迪La Voiture Noire 返场标记为 绝版"
+        },
+        {
+          "type": "new",
+          "text": "宝马M5 Competition 上线时间补为 2026.10.9-2026.11.26"
+        }
+      ]
     }
   ]
 }
